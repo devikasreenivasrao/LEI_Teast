@@ -1,0 +1,13 @@
+{
+  "id" : "https://devikasreenivasrao.github.io/LEI_Teast/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in devikasreenivasrao/LEI_Teast project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://devikasreenivasrao.github.io/LEI_Teast/manifests/manifest2.json",
+    "label" : "first manifest"
+  } ]
+}
