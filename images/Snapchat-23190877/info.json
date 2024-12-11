@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 23,
+    "height" : 40
+  }, {
+    "width" : 45,
+    "height" : 80
+  }, {
+    "width" : 90,
+    "height" : 160
+  }, {
+    "width" : 180,
+    "height" : 320
+  }, {
+    "width" : 360,
+    "height" : 640
+  }, {
+    "width" : 720,
+    "height" : 1280
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 720,
+  "@id" : "https://devikasreenivasrao.github.io/LEI_Teast/images/Snapchat-23190877",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1280
+}
